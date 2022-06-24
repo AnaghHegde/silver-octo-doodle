@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "icon": "frame",
+  "evaluationVersion": 2,
+  "applicationVersion": 1,
+  "isManualUpdate": false,
+  "deleted": false
+}
